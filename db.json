@@ -8,6 +8,24 @@
           "title": "Post 1" 
         }
       ]
+    },
+    { 
+      "id": "home2",
+      "sections": [
+        {
+          "id": "about",
+          "title": "Post 1" 
+        }
+      ]
+    },
+    { 
+      "id": "home3",
+      "sections": [
+        {
+          "id": "about",
+          "title": "Post 1" 
+        }
+      ]
     }
   ]
 }
