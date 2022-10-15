@@ -1,5 +1,5 @@
 {
-  pagedata: [
+  "pagedata": [
     "home": [
       { "id": "about", "title": "Amazing food without the hassle", "subtitle": "We do all the work, so all you have to do is sit back and enjoy" }    
     ]  
