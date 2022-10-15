@@ -1,7 +1,13 @@
 {
   "pagedata": [
-    { "id": "about", "title": "Post 1" },
-    { "id": "about2", "title": "Post 1" },
-    { "id": "about3", "title": "Post 1" }
+    { 
+      "id": "home"
+      "sections": [
+        {
+          "id": "about",
+          "title": "Post 1" 
+        }
+      ],
+    }
   ]
 }
