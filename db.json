@@ -1,13 +1,14 @@
 {
-  "pagedata": [
-    {
-      "home": [
-        { 
-          "id": "about", 
-          "title": "Amazing food without the hassle", 
-          "subtitle": "We do all the work, so all you have to do is sit back and enjoy" 
-        }    
-      ]
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
