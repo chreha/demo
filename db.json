@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post" },
-    { "id": 3, "title": "Post654654" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  pagedata: [
+    "home": [
+      { "id": "about", "title": "Amazing food without the hassle", "subtitle": "We do all the work, so all you have to do is sit back and enjoy" }    
+    ]  
+  ]
 }
