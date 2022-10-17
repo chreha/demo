@@ -62,17 +62,17 @@
             {
               "text": "John Wellington and his team make the most amazing food. Every single time I've ordered, I've been blown-away by the quality. You can tell they only use fresh ingredients and put a lot of love into every single meal they make! You really can't ask for anything more, it's always fantastic.",
               "author": "John Deer",
-              "title": "Lover of good food"
+              "author-title": "Lover of good food"
             },
             {
               "text": "I'm so happy that I found John Wellington! The food is on par with some of the best restaurants I've ever eaten at, but from the comfort of my own home. Every single time I order, it's mouthwateringly delicious.",
               "author": "Marie Condo",
-              "title": "Foodie"
+              "author-title": "Foodie"
             },
             {
               "text": "From simple meals to some of the most extravagant things I've ever eaten, John and his team always deliver. Every time I order something new, I just can't wait for it to be delivered and I know how mouth-wateringly delicious it's going to be. If you like good food you have to give it a try!",
               "author": "Sam Reinhert",
-              "title": "Good food enthusiast"
+              "author-title": "Good food enthusiast"
             }
           ]
         }
