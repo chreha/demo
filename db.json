@@ -81,30 +81,7 @@
                 ],
                 "alt": "A man standing outside"
               }               
-            },
-            {
-              "content": "I'm so happy that I found John Wellington! The food is on par with some of the best restaurants I've ever eaten at, but from the comfort of my own home. Every single time I order, it's mouthwateringly delicious.",
-              "author": "Marie Condo",
-              "author-title": "Foodie",
-              "image": {
-                "identifier": "block-image",
-                "srcs": [
-                  { 
-                    "src": "/testimonial-02.jpg",
-                    "type": ".jpg"
-                  },
-                  { 
-                    "src": "/testimonial-02.webp",
-                    "type": ".webp"
-                  },
-                  { 
-                    "src": "/testimonial-02.avif",
-                    "type": ".avif"
-                  }                  
-                ],
-                "alt": "A man standing outside"
-              }
-            },
+            },            
             {
               "content": "From25 simple meals to some of the most extravagant things I've ever eaten, John and his team always deliver. Every time I order something new, I just can't wait for it to be delivered and I know how mouth-wateringly delicious it's going to be. If you like good food you have to give it a try!",
               "author": "Sam Reinhert",
